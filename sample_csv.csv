@@ -1,0 +1,22 @@
+TickerSymbol,Name,Allocation,AssetClass,Sector
+ACN,Accenture plc,3.7,Equities,Information Technology
+CAH,Cardinal Health Inc,3.7,Equities,Health Care
+CAT,Caterpillar Inc,3.7,Equities,Industrials
+JNJ,Johnson & Johnson,3.7,Equities,Health Care
+PPG,PPG Industries Inc,3.7,Equities,Materials
+EQT,EQT Corporation,3.7,Equities,Energy
+KDP,Keurig Dr Pepper Inc,3.7,Equities,Consumer Staples
+LPLA,LPL Financial Holdings Inc,3.7,Equities,Financials
+PODD,Insulet Corporation,3.7,Equities,Health Care
+UNH,UnitedHealth Group Incorporated,3.7,Equities,Health Care
+AGG,iShares Core U.S. Aggregate Bond ETF,26,Fixed Income,Other
+ADM,Archer-Daniels-Midland Company,3.7,Equities,Consumer Staples
+AGCO,AGCO Corporation,3.7,Equities,Industrials
+CF,CF Industries Holdings Inc,3.7,Equities,Materials
+DE,Deere & Company,3.7,Equities,Industrials
+PKG,Packaging Corp of America,3.7,Equities,Materials
+ATEN,A10 Network,3.7,Equities,Information Technology
+AVGO,Broadcom Inc,3.7,Equities,Information Technology
+CACI,CACI International Inc,3.7,Equities,Information Technology
+FTNT,Fortinet Inc,3.7,Equities,Information Technology
+PANW,Palo Alto Networks Inc,3.7,Equities,Information Technology
